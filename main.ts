@@ -1,4 +1,4 @@
-let Hello_world = 0
+basic.showString("Hello world")
 basic.forever(function () {
 	
 })
